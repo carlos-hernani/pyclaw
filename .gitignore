@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Fortran Files
+_output
+clawpack
+
 # Distribution / packaging
 .Python
 build/
